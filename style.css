@@ -1,0 +1,26 @@
+h1 {
+  font-size: 40px;
+}
+
+.uvod {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+img {
+  width: 20%;
+}
+
+h2 {
+  text-decoration: underline;
+}
+p {
+  font-size: 16px;
+}
+
+td,
+th {
+  border: 1px solid black;
+  padding: 10px;
+  text-align: center;
+}
